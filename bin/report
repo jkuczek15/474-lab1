@@ -1,0 +1,3 @@
+1. The difference between Laplace and MLE estimations is not very significant when the number of words appearing in the document is small. 
+
+If the number of words is high, there is a greater difference between the Laplace and MLE estimators
