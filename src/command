@@ -1,1 +1,5 @@
-java NaiveBayes vocabulary.txt map.csv train_label.csv train_data.csv test_label.csv test_data.csv
+1. Compile the program - javac NaiveBayes.java
+2. Ensure all input files end with a new line (otherwise there will be errors)
+3. Run the program	- java NaiveBayes vocabulary.txt map.csv train_label.csv train_data.csv test_label.csv test_data.csv
+4. Wait... Program may take up to 3-4 minutes to complete. 
+5. Output will be displayed to the console
